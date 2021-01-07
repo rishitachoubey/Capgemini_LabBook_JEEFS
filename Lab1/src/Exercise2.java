@@ -1,3 +1,8 @@
+/** 
+ * Create a method to checkWrite a java program that simulates a traffic light. The program lets the user select one of three lights: red, yellow, or green with radio buttons. On entering the choice, an appropriate message with “stop” or “ready” or “go” should appear in the console .Initially there is no message shown if a number is an increasing number
+ * @author RISHITA CHOUBEY
+ *
+ */
 import java.util.Scanner;
 public class Exercise2 {
 
