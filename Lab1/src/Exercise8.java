@@ -1,4 +1,8 @@
-
+** 
+ * Create a method to check if a number is a power of two or not
+ * @author RISHITA CHOUBEY
+ *
+ */
 public class Exercise8 {
 
 	public static void main(String[] args) {
