@@ -1,4 +1,8 @@
-
+/**
+ * Create a method to check if a number is an increasing number
+ * @author RISHITA CHOUBEY
+ *
+ */
 public class Exercise7 {
 
 
