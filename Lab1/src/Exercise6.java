@@ -1,3 +1,8 @@
+** 
+ * Create a class with a method to find the difference between the sum of the squares and the square of the sum of the first n natural numbers.
+ * @author RISHITA CHOUBEY
+ *
+ */
 public class Exercise6 {
 
 	public static void main(String[] args) {
