@@ -1,3 +1,8 @@
+/** Create a method to find the sum of the cubes of the digits of an n digit number
+ * Create a method to check if a number is an increasing number
+ * @author RISHITA CHOUBEY
+ *
+ */
 import java.util.Scanner;
 public class Exercise1{
 	
