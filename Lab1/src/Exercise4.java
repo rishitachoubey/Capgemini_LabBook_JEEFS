@@ -1,3 +1,8 @@
+** 
+ *: Write a Java program that prompts the user for an integer and then prints out all the prime numbers up to that Integer?
+ * @author RISHITA CHOUBEY
+ *
+ */
 import java.util.Scanner;
 public class Exercise4 {
 
