@@ -10,7 +10,7 @@ import java.util.*;
 import java.time.*;
 import java.util.*;
 
-public class Exercise7 {
+public class Exercise9 {
 
 	public static void calcDifference(LocalDate current) {
 		LocalDate now = LocalDate.now();
